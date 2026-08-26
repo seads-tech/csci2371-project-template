@@ -1,0 +1,24 @@
+# Raw data must never be committed (keep the folder, ignore its contents)
+data/*
+!data/.gitkeep
+!data/README.md
+*.csv
+*.tsv
+*.parquet
+*.json.gz
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Secrets
+.env
+*.pem
+*token*
