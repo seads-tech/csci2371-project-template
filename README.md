@@ -129,10 +129,3 @@ __pycache__/
 Code, SQL, and notebooks committed here must be your own work or properly attributed. Generative AI tools are permitted for learning and debugging, but must be disclosed in commit messages as described above. See the course syllabus for the full policy.
 
 ---
-
-*Part of the CSCI 2371 course package, Columbus State Community College.*
-# csci2371-project-template
-# csci2371-project-template
-# csci2371-project-template
-# csci2371-project-template
-# csci2371-project-template
