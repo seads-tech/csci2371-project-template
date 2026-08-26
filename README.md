@@ -131,3 +131,4 @@ Code, SQL, and notebooks committed here must be your own work or properly attrib
 ---
 
 *Part of the CSCI 2371 course package, Columbus State Community College.*
+# csci2371-project-template
