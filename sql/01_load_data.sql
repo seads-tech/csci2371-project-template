@@ -1,2 +1,0 @@
--- Phase 1 (Week 4): load data from your raw Unity Catalog Volume into the tables.
--- Use COPY INTO or INSERT ... SELECT with correct type casts.

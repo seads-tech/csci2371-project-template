@@ -1,4 +1,0 @@
--- Phase 1 (Week 5): Unity Catalog grants matrix (least privilege).
--- Example:
--- GRANT SELECT ON SCHEMA csci2371_ops TO `analyst_read`;
--- GRANT MODIFY ON SCHEMA csci2371_ops TO `engineer_write`;

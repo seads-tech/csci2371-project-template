@@ -1,5 +1,0 @@
--- Phase 1 (Week 4): idempotent DDL for your managed Delta tables.
--- Use CREATE SCHEMA IF NOT EXISTS and CREATE TABLE IF NOT EXISTS.
--- Example:
--- CREATE SCHEMA IF NOT EXISTS csci2371_ops;
--- CREATE TABLE IF NOT EXISTS csci2371_ops.customer (...);
